@@ -6,8 +6,7 @@
 
 Try it here! https://vidyabodepudi.github.io/Universal-Semantic-Distortion-Device/
 
-### _Insane in the wordbrane_ 
-### _Insane in the brain!_ 
+### _Insane in the wordbrane_,_Insane in the brain!_ 
 ## Translate anything. Pwn everything.
 
 
