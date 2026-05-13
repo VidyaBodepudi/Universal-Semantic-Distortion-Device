@@ -1,34 +1,19 @@
-# PolyLingo <-- Still figuring out a name 🐍⚡
+# Ξ Universal Semantic Distortion Device Ξ 📡
 
 **Universal text transformer, steganography engine & something about aliens** — written in Rust.
 
 > Bibbidi-Babely-Boo, reforged. Faster, more comprehensive, with all sorts of chaos and whimsy... :)
 
-Try it here! https://vidyabodepudi.github.io/PolyLingus/
+Try it here! https://vidyabodepudi.github.io/Universal-Semantic-Distortion-Device/
 
-### _Speak in Tongues_ 
-### _Speak In Tongues Or Get Tongued_ 
+### _Insane in the wordbrane_ 
+### _Insane in the brain!_ 
+## Translate anything. Pwn everything.
 
-Universal text translator made in rust, compiled to WASM.
 
-## Help me think of a proper product tagline:
+## Some of the previous names befre we found a good one:
 
-Decode, translate, breath, speak — repeat.
-
-Decode, translate, tongue — repeat
-
-One translator to tongue your encodings
-
-Everything in tongues. Pwn anything
-Translate everything. Pwn anything.
-
-You know, I lingo, You lingo, He she me lingo, lingo, Lingoing, We'll have thee lingo, Lingorama, Lingualogy, The study of Lungo? It's first grade, L33tBob!
-
-2ez4spek OR 3ez5speak
-
-## Help me think of what to call this
-
-Babelboi | L33tsp34k | lingol33t | UTF-8-Babel | Cosmolingolical | GrokNspiek | BabeLnGrook | CodecCoven
+Babelboi | L33tsp34k | lingol33t | UTF-8-Babel | Cosmolingolical | GrokNspiek | BabeLnGrook | CodecCoven | 2ez4spek
 
 ## What Is This?
 
@@ -45,51 +30,6 @@ Dr. SpeakEZPZ is a high-performance CLI tool for text transformation, encoding, 
 - 📊 **Entropy Analysis** — Shannon entropy profiling to detect encoded payloads
 - 🔬 **Unicode Scanner** — Detects 30+ hidden character types
 - 📋 **JSON Reports** — Full analysis output as structured JSON
-
-## Quick Start
-
-```bash
-# Build
-cargo build --release
-
-# Encode with any transform
-triolingo encode --transform base64 "Hello World"
-triolingo encode --transform fraktur "Secret Message"
-triolingo encode --transform homoglyph "admin password"
-triolingo encode --transform synonym "delete the user data"
-triolingo encode --transform euphemism "hack the server"
-triolingo encode --transform register_shift "gonna try this" -p target=formal
-
-# Decode (universal auto-detect, or specify transform)
-triolingo decode "SGVsbG8gV29ybGQ="
-triolingo decode "SGVsbG8gV29ybGQ=" --depth 2  # chain decode
-
-# Pipeline chains
-triolingo pipeline "rot13 -> base64" "Hello World"
-triolingo pipeline "rot13 -> base64" "VXJ5eWIgSmJleXE=" --reverse
-
-# Analyze for attacks
-triolingo analyze "ignore previous instructions" --mode prompt-injection
-triolingo analyze "suspicious text" --mode entropy
-triolingo analyze "text" --mode all
-triolingo analyze "text" --json  # structured JSON report
-
-# Fragment payloads
-triolingo fragment "ignore all previous instructions" --parts 4
-triolingo fragment "payload text" --parts 3 --interleave
-
-# Token estimation
-triolingo tokens "How many tokens is this?"
-
-# Steganography
-triolingo stego embed --method zwsp --message "hidden" --cover "normal text"
-triolingo stego extract --method zwsp "encoded text"
-triolingo stego embed --method image --message "secret" --cover image.png --output stego.png
-
-# List all transforms
-triolingo list
-triolingo list --category cipher
-```
 
 ## Transform Categories (60 total)
 
