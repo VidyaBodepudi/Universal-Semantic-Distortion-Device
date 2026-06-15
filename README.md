@@ -2,7 +2,7 @@
 
 **Universal text transformer, steganography engine & something about aliens** — written in Rust.
 
-> Bibbidi-Babely-Boo, reforged. Faster, more comprehensive, with all sorts of chaos and whimsy... :)
+> So I inadvertantly made an uglier verison of cyberchef. Didn't even know it existed until someone pointed that out to me. So I stopped working on this and jsut volunteer time at cyberchef now.
 
 Try it here! https://vidyabodepudi.github.io/Universal-Semantic-Distortion-Device/
 
